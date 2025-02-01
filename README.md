@@ -115,6 +115,27 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 </p>
 
 
+<p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://github.com/iTusharyadav" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:tushar43588@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/tushar-yadav-9427b6322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
 
 
 ## ⚡ Fun Fact
