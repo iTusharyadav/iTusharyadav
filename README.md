@@ -100,7 +100,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   <a href="https://www.figma.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma" />
   </a>
-  <a href="https://github.com" target="_blank">
+  <a href="https://github.com/iTusharyadav" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="mailto:your-email@gmail.com" target="_blank">
@@ -118,55 +118,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 </p>
 
 
-
-
-<p align="center">
-  <a href="https://discord.com" target="_blank" style="margin-right: 10px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://www.figma.com" target="_blank" style="margin-right: 10px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
-  <a href="https://github.com" target="_blank" style="margin-right: 10px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank" style="margin-right: 10px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://instagram.com" target="_blank" style="margin-right: 10px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://linkedin.com" target="_blank" style="margin-right: 10px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com" target="_blank" style="margin-right: 10px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://discord.com" target="_blank" style="margin-right: 15px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=discord" style="margin-right: 15px;" />
-  </a>
-  <a href="https://www.figma.com" target="_blank" style="margin-right: 15px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=figma" style="margin-right: 15px;" />
-  </a>
-  <a href="https://github.com" target="_blank" style="margin-right: 15px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=github" style="margin-right: 15px;" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank" style="margin-right: 15px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" style="margin-right: 15px;" />
-  </a>
-  <a href="https://instagram.com" target="_blank" style="margin-right: 15px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" style="margin-right: 15px;" />
-  </a>
-  <a href="https://linkedin.com" target="_blank" style="margin-right: 15px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right: 15px;" />
-  </a>
-  <a href="https://twitter.com" target="_blank" style="margin-right: 15px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=twitter" style="margin-right: 15px;" />
-  </a>
-</p>
 
 
 ## ⚡ Fun Fact
