@@ -138,6 +138,27 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 
 
+
+<p align="center">
+  <a href="#" onclick="window.open('https://discord.com', '_blank'); return false;">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://github.com/iTusharyadav" onclick="window.open('https://github.com/iTusharyadav', '_blank'); return false;">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:tushar43588@gmail.com" onclick="window.open('mailto:tushar43588@gmail.com', '_blank'); return false;">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="#" onclick="window.open('https://instagram.com', '_blank'); return false;">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/tushar-yadav-9427b6322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" onclick="window.open('https://www.linkedin.com/in/tushar-yadav-9427b6322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app', '_blank'); return false;">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="#" onclick="window.open('https://twitter.com', '_blank'); return false;">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
 ## ⚡ Fun Fact
 
 Did you know? I love solving Rubik's cubes and can solve one in under a minute!
