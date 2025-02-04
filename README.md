@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iTusharyadav&theme=highcontrast&hide_border=true">
 
-### Top Repositories
+<!--### Top Repositories
 <div align="center">
   <table>
     <tr>
@@ -91,7 +91,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
     </tr>
   </table>
 </div>
-
+-->
 ## 📫 How to Reach Me
 <p align="center">
   <a href="#" target="_blank">
