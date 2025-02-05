@@ -1,8 +1,9 @@
-<div align="center">
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=iTusharyadav&data=followers,repositories,stars,commits)](https://github.com/iTusharyadav/Jurredr/github-widgetbox)
-</div>
+<p align="center">
+  <a href="https://github.com/iTusharyadav/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=iTusharyadav&data=followers,repositories,stars,commits" alt="GitHub WidgetBox">
+  </a>
+</p>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=iTusharyadav&data=followers,repositories,stars,commits)](https://github.com/iTusharyadav/Jurredr/github-widgetbox)
 <h1 align="center">Hi there, I'm Tushar Yadav! <a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>
 
 
@@ -23,7 +24,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🌱 What I'm Currently Learning
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie">
+<img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&theme=oldie">
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3">
 
 
 <h3 align="center">Git Stats</h3>
@@ -53,9 +55,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iTusharyadav&theme=highcontrast">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iTusharyadav&theme=highcontrast&hide_border=true">-->
 <!--<img src="https://github-readme-stats.vercel.app/api?username=iTusharyadav&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Tusharyadav's GitHub stats">-->
-
-
-
 <div align="center">
   <table>
     <tr>
@@ -71,14 +70,49 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Most Commit Language">
       </td>
       <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iTusharyadav&theme=highcontrast" alt="Stats">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Stats">
       </td>
     </tr>
   </table>
 </div>
 
+
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iTusharyadav&theme=highcontrast&hide_border=true">
 
+
+
+
+<div align="center">
+  <!-- First Table with 4th and 5th Cards -->
+  <table>
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Stats">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Profile Details">
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Second Table with 1st, 2nd, and 3rd Cards -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTusharyadav&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!--### Top Repositories
 <div align="center">
