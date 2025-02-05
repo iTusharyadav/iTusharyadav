@@ -1,3 +1,8 @@
+<div align="center">
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=iTusharyadav&data=followers,repositories,stars,commits)](https://github.com/iTusharyadav/Jurredr/github-widgetbox)
+</div>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=iTusharyadav&data=followers,repositories,stars,commits)](https://github.com/iTusharyadav/Jurredr/github-widgetbox)
 <h1 align="center">Hi there, I'm Tushar Yadav! <a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>
 
 
@@ -18,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🌱 What I'm Currently Learning
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie">
 
 
 <h3 align="center">Git Stats</h3>
