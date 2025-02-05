@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🌱 What I'm Currently Learning
 
 <img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&theme=oldie">
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3">
+<img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&row=2&column=3">
 
 
 <h3 align="center">Git Stats</h3>
@@ -83,6 +83,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 
 
+
+
+
 <div align="center">
   <!-- First Table with 4th and 5th Cards -->
   <table>
@@ -96,7 +99,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
     </tr>
   </table>
   
-  <!-- Second Table with 1st, 2nd, and 3rd Cards -->
+  <!-- Second Table with 1st, 2nd, and 3rd Cards in a Single Row (Breaking after two cards) -->
   <table>
     <tr>
       <td>
@@ -107,7 +110,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
       </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Most Commit Language">
       </td>
     </tr>
