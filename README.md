@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iTusharyadav&custom_title=Tushar yadav's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>-->
-<div align="center">
+<!--<div align="center">
 <table>
   <tr>
     <td>
@@ -46,9 +46,34 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 </div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iTusharyadav&theme=highcontrast">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iTusharyadav&theme=highcontrast&hide_border=true">-->
 <!--<img src="https://github-readme-stats.vercel.app/api?username=iTusharyadav&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Tusharyadav's GitHub stats">-->
 
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTusharyadav&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iTusharyadav&theme=highcontrast" alt="Stats">
+      </td>
+    </tr>
+  </table>
+</div>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iTusharyadav&theme=highcontrast&hide_border=true">
+
 
 <!--### Top Repositories
 <div align="center">
