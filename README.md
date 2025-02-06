@@ -15,8 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🔧 Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <!--<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,apple,azure,blender,bootstrap,cs,codepen,css,discord,figma,github,html,java,js,kali,linux,nextjs,replit,py,sass,tailwind,threejs,ts,unreal,vercel,vite,vscode,windows,wordpress" />-->
-     <img src="https://skillicons.dev/icons?i=apple,azure,blender,bootstrap,cs,codepen,css,discord,docker,figma,git,github,html,java,js,kali,kubernetes,linux,nextjs,py,replit,sass,tailwind,threejs,ts,unreal,vercel,vite,vscode,windows,wordpress" />
+  <img src="https://skillicons.dev/icons?i=apple,azure,blender,bootstrap,cs,codepen,css,discord,docker,figma,git,github,html,java,js,kali,kubernetes,linux,nextjs,py,replit,sass,tailwind,threejs,ts,unreal,vercel,vite,vscode,windows,wordpress" />
   </a>
 </p>
 
@@ -27,11 +26,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 <img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&theme=oldie">
 <img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&row=2&column=3">
 
+---
+
+<!--Git Status Cards-->
 
 <h3 align="center">Git Stats</h3>
- 
 <div align="center">
-  <!-- First Table with 4th and 5th Cards -->
+  <!-- First Table -->
   <table>
     <tr>
       <td>
@@ -42,14 +43,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
       </td>
     </tr>
   </table>
-  
-  
-
-
-
-
-
-
+<!-- Second Table -->
 <div align="center">
 <table>
   <tr>
@@ -64,7 +58,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
     </td>
   </tr>
 </table>
-
 </div>
 
 
