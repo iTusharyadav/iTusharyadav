@@ -14,24 +14,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 <!-- Technology used-->
 ## 🔧 Technologies & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=apple,azure,blender,bootstrap,cs,codepen,css,discord,docker,figma,git,github,html,java,js,kali,kubernetes,linux,nextjs,py,replit,sass,tailwind,threejs,ts,unreal,vercel,vite,vscode,windows,wordpress" />
-  </a>
-</p>
 
-
-
-
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=apple,azure,blender,bootstrap,cs,codepen,css,discord,docker,figma,git,github,html,java,js,kali,kubernetes,linux,nextjs,py,replit,sass,tailwind,threejs,ts,unreal,vercel,vite,vscode,windows,wordpress" />
-  </a>
-</p>
-
-## Tech Stack
 
 ### Programming Languages
 <table align="center">
