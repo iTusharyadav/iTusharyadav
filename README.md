@@ -12,6 +12,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. Here you'll find some of the projects I've been working on, as well as some of my contributions to the open-source community.
 
+---
 ## 🔧 Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,11 +21,14 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 </p>
 
 
-
+---
 ## 🌱 What I'm Currently Learning
 
-<img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&theme=oldie">
-<img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&row=2&column=3">
+---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&theme=oldie" />
+</p>
+
 
 ---
 
@@ -60,6 +64,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 </table>
 </div>
 
+
+
+
+--- 
 
 ## 📫 How to Reach Me
 <p align="center">
