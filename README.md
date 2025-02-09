@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🔧 Technologies & Tools
 
 
-### Programming Languages
+
 <table align="center">
   <tr>
     <td colspan="5" align="center"><strong>Programming Languages</strong></td>
