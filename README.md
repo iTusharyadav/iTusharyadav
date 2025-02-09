@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   </tr>
 </table>
 
-### Frameworks
+
 <table align="center">
   <tr>
     <td colspan="5" align="center"><strong>Frameworks</strong></td>
@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   </tr>
 </table>
 
-### Tools
+
 <table align="center">
   <tr>
     <td colspan="8" align="center"><strong>Tools</strong></td>
@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   </tr>
 </table>
 
-### Operating Systems
+
 <table align="center">
   <tr>
     <td colspan="3" align="center"><strong>Operating Systems</strong></td>
@@ -80,7 +80,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   </tr>
 </table>
 
-### Cloud/DevOps
+
 <table align="center">
   <tr>
     <td colspan="3" align="center"><strong>Cloud/DevOps</strong></td>
@@ -92,7 +92,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   </tr>
 </table>
 
-### Design & UI
+
 <table align="center">
   <tr>
     <td colspan="2" align="center"><strong>Design & UI</strong></td>
@@ -103,7 +103,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   </tr>
 </table>
 
-### Communication
+
 <table align="center">
   <tr>
     <td colspan="1" align="center"><strong>Communication</strong></td>
@@ -113,7 +113,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   </tr>
 </table>
 
-### CMS
+
 <table align="center">
   <tr>
     <td colspan="1" align="center"><strong>CMS</strong></td>
@@ -123,7 +123,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   </tr>
 </table>
 
-### Other
+
 <table align="center">
   <tr>
     <td colspan="3" align="center"><strong>Other</strong></td>
