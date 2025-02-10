@@ -52,14 +52,17 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
     <td colspan="8" align="center"><strong>Tools</strong></td>
   </tr>
   <tr>
+    <td><img src="https://skillicons.dev/icons?i=blender" alt="Blender"/></td>
     <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></td>
+    <td><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></td>
     <td><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></td>
     <td><img src="https://skillicons.dev/icons?i=git" alt="Git"/></td>
     <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></td>
+    <td><img src="https://skillicons.dev/icons?i=replit" alt="Replit"/></td>
+    <td><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress"/></td>
     <td><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/></td>
     <td><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/></td>
     <td><img src="https://skillicons.dev/icons?i=vite" alt="Vite"/></td>
-    <td><img src="https://skillicons.dev/icons?i=replit" alt="Replit"/></td>
   </tr>
 </table>
 
@@ -101,34 +104,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 </table>
 
 
-<table align="center">
-  <tr>
-    <td colspan="1" align="center"><strong>Communication</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></td>
-  </tr>
-</table>
-
-
-<table align="center">
-  <tr>
-    <td colspan="1" align="center"><strong>CMS</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress"/></td>
-  </tr>
-</table>
-
-
-<table align="center">
-  <tr>
-    <td colspan="3" align="center"><strong>Other</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=blender" alt="Blender"/></td>
-  </tr>
-</table>
 
 
 ---
