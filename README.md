@@ -103,7 +103,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ---
 
 <!-- Github Trophy-->
-<h3 align="center">Trophy</h3>
+## 📫 Trophy
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&theme=oldie" />
 </p>
