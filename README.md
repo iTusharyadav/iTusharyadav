@@ -23,14 +23,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></td>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></td>
     <td><img src="https://skillicons.dev/icons?i=java" alt="Java"/></td>
     <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></td>
     <td><img src="https://skillicons.dev/icons?i=py" alt="Python"/></td>
     <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></td>
-    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></td>
   </tr>
 </table>
 
@@ -72,11 +70,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=apple" alt="Apple"/></td>
+    <td><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux"/></td>
     <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></td>
     <td><img src="https://skillicons.dev/icons?i=windows" alt="Windows"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux"/></td>
+
   </tr>
 </table>
 
