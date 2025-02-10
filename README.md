@@ -5,15 +5,14 @@
   </a>
 </p>
 
-
 <!-- About Me -->
 <h1 align="center">Hi there, I'm Tushar Yadav! <a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. Here you'll find some of the projects I've been working on, as well as some of my contributions to the open-source community.
+<p align="center">Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. Here you'll find some of the projects I've been working on, as well as some of my contributions to the open-source community.</p>
 
 ---
 
 <!-- Technology used-->
-## 🔧 Technologies & Tools
+<h2 align="center">🔧 Technologies & Tools</h2>
 
 <table align="center">
   <tr>
@@ -98,17 +97,16 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ---
 
 <!-- Currently Learning -->
-## 🌱 What I'm Currently Learning
+<h2 align="center">🌱 What I'm Currently Learning</h2>
 
 ---
 
 <!-- Github Trophy-->
-## 📫 Trophy
+<h2 align="center">📫 Trophy</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&theme=oldie" />
 </p>
-
 
 ---
 
@@ -126,30 +124,27 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
       </td>
     </tr>
   </table>
-<!-- Second Table -->
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTusharyadav&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
+
+  <!-- Second Table -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTusharyadav&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iTusharyadav&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      </td>
+    </tr>
+  </table>
 </div>
-
-
-
 
 --- 
 
 <!-- Contact With Me -->
-## 📫 How to Reach Me
+<h2 align="center">📫 How to Reach Me</h2>
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
@@ -174,8 +169,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ---
 
 <!-- Outro -->
-## ⚡ Fun Fact
+<h2 align="center">⚡ Fun Fact</h2>
+<p align="center">Did you know? I love solving Rubik's cubes and can solve one in under a minute!</p>
 
-Did you know? I love solving Rubik's cubes and can solve one in under a minute!
-
-Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect!
+<p align="center">Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect!</p>
