@@ -44,7 +44,7 @@
 
 <table align="center">
   <tr>
-    <td colspan="8" align="center"><strong>Tools</strong></td>
+    <td colspan="11" align="center"><strong>Tools</strong></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=blender" alt="Blender"/></td>
