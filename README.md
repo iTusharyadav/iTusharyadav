@@ -170,6 +170,6 @@
 
 <!-- Outro -->
 <h2 align="center">⚡ Fun Fact</h2>
-<p align="center">Did you know? I love solving Rubik's cubes and can solve one in under a minute!</p>
+<p align="center">Code that flows, ideas that grow.</p>
 
 <p align="center">Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect!</p>
