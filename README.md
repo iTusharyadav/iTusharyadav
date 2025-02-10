@@ -95,102 +95,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
   </tr>
 </table>
 
-
-
-<!--<table align="center">
-  <tr>
-    <td colspan="7" align="center"><strong>Programming Languages</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></td>
-    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></td>
-    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></td>
-    <td><img src="https://skillicons.dev/icons?i=java" alt="Java"/></td>
-    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></td>
-    <td><img src="https://skillicons.dev/icons?i=py" alt="Python"/></td>
-    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-<table align="center">
-  <tr>
-    <td colspan="5" align="center"><strong>Frameworks</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap"/></td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/></td>
-    <td><img src="https://skillicons.dev/icons?i=sass" alt="Tailwind CSS"/></td>
-    <td><img src="https://skillicons.dev/icons?i=threejs" alt="Three.js"/></td>
-    <td><img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine"/></td>
-  </tr>
-</table>
-
-
-<table align="center">
-  <tr>
-    <td colspan="8" align="center"><strong>Tools</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=blender" alt="Blender"/></td>
-    <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></td>
-    <td><img src="https://skillicons.dev/icons?i=discord" alt="Discord"/></td>
-    <td><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></td>
-    <td><img src="https://skillicons.dev/icons?i=git" alt="Git"/></td>
-    <td><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></td>
-    <td><img src="https://skillicons.dev/icons?i=replit" alt="Replit"/></td>
-    <td><img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress"/></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/></td>
-    <td><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel"/></td>
-    <td><img src="https://skillicons.dev/icons?i=vite" alt="Vite"/></td>
-  </tr>
-</table>
-
-
-<table align="center">
-  <tr>
-    <td colspan="3" align="center"><strong>Operating Systems</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=apple" alt="Apple"/></td>
-    <td><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux"/></td>
-    <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></td>
-    <td><img src="https://skillicons.dev/icons?i=windows" alt="Windows"/></td>
-
-  </tr>
-</table>
-
-
-<table align="center">
-  <tr>
-    <td colspan="3" align="center"><strong>Cloud/DevOps</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=azure" alt="Azure"/></td>
-    <td><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/></td>
-    <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></td>
-  </tr>
-</table>
-
-
-<table align="center">
-  <tr>
-    <td colspan="2" align="center"><strong>Design & UI</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></td>
-    <td><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen"/></td>
-  </tr>
-</table>
--->
-
-
-
 ---
 
 <!-- Currently Learning -->
@@ -199,6 +103,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ---
 
 <!-- Github Trophy-->
+<h3 align="center">Trophy</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&theme=oldie" />
 </p>
