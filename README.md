@@ -6,7 +6,7 @@
 </p>
 
 <!-- About Me -->
-<h1 align="center">Hi there, I'm Tushar Yadav! <a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>
+<!--<h1 align="center">Hi there, I'm Tushar Yadav! <a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>-->
 <p align="center">Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. Here you'll find some of the projects I've been working on, as well as some of my contributions to the open-source community.</p>
 
 ---
