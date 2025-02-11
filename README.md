@@ -12,8 +12,7 @@
 ---
 
 <!-- Technology used-->
-<h2 align="center">🔧 Technologies & Tools</h2>
-
+<h2 align="center">:hammer_and_wrench: Technologies & Tools</h2>
 <table align="center">
   <tr>
     <td colspan="7" align="center"><strong>Programming Languages</strong></td>
@@ -97,12 +96,12 @@
 ---
 
 <!-- Currently Learning -->
-<h2 align="center">🌱 What I'm Currently Learning</h2>
+<h2 align="center">:books: What I'm Currently Learning</h2>
 
 ---
 
 <!-- Github Trophy-->
-<h2 align="center">📫 Trophy</h2>
+<h2 align="center">:trophy:  Trophy</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&theme=oldie" />
@@ -111,7 +110,7 @@
 ---
 
 <!--Git Status Cards-->
-<h3 align="center">Git Stats</h3>
+<h3 align="center">:bar_chart: Git Stats</h3>
 <div align="center">
   <!-- First Table -->
   <table>
@@ -144,7 +143,7 @@
 --- 
 
 <!-- Contact With Me -->
-<h2 align="center">📫 How to Reach Me</h2>
+<h2 align="center">:mailbox_with_mail: How to Reach Me</h2>
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
@@ -169,4 +168,4 @@
 ---
 
 <!-- Outro -->
-<p align="center"> "Code that flows, ideas that grow." ✨ </p>
+<p align="center"> "Code that flows, ideas that grow." :seedling: </p>
