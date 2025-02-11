@@ -169,7 +169,4 @@
 ---
 
 <!-- Outro -->
-<h2 align="center">⚡ Fun Fact</h2>
-<p align="center">Code that flows, ideas that grow.</p>
-
-<p align="center">Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect!</p>
+<p align="center"> Code that flows, ideas that grow. ✨ </p>
