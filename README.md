@@ -99,7 +99,7 @@
 <h2 align="center">:books: What I'm Currently Learning</h2>
 <table align="center">
   <tr>
-    <td colspan="4" align="center"><strong>Frameworks</strong></td>
+    <td colspan="4" align="center"><strong>In the Lab</strong></td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda"/></td>
