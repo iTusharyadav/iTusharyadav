@@ -114,6 +114,54 @@
   </tr>
 </table>
 
+
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td colspan="4" align="center"><strong>Operating Systems</strong></td>
+          </tr>
+          <tr>
+            <td><img src="https://skillicons.dev/icons?i=apple" alt="Apple"/></td>
+            <td><img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux"/></td>
+            <td><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></td>
+            <td><img src="https://skillicons.dev/icons?i=windows" alt="Windows"/></td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table align="center">
+          <tr>
+            <td colspan="3" align="center"><strong>Cloud/DevOps</strong></td>
+          </tr>
+          <tr>
+            <td><img src="https://skillicons.dev/icons?i=azure" alt="Azure"/></td>
+            <td><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></td>
+            <td><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/></td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table align="center">
+          <tr>
+            <td colspan="2" align="center"><strong>Design & UI</strong></td>
+          </tr>
+          <tr>
+            <td><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen"/></td>
+            <td><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 ---
 
 <!-- Currently Learning -->
