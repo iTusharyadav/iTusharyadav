@@ -97,6 +97,17 @@
 
 <!-- Currently Learning -->
 <h2 align="center">:books: What I'm Currently Learning</h2>
+<table align="center">
+  <tr>
+    <td colspan="4" align="center"><strong>Frameworks</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda"/></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch" alt="Pytorch"/></td>
+    <td><img src="https://skillicons.dev/icons?i=sklearn" alt="Sklearn	"/></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow"/></td>
+  </tr>
+</table>
 
 ---
 
