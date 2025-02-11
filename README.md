@@ -169,4 +169,4 @@
 ---
 
 <!-- Outro -->
-<p align="center"> "Code that flows, ideas that grow. " ✨ </p>
+<p align="center"> "Code that flows, ideas that grow." ✨ </p>
