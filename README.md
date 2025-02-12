@@ -62,7 +62,7 @@
 
 
 
-<table align="center">
+<!--<table align="center">
   <tr>
     <td colspan="4" align="center"><strong>Operating Systems</strong></td>
     <td colspan="3" align="center"><strong>Cloud/DevOps</strong></td>
@@ -79,7 +79,7 @@
     <td><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen"/></td>
     <td><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></td>
   </tr>
-</table>
+</table>-->
 
 
 
