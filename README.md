@@ -133,12 +133,11 @@
 ---
 
 <!-- Github Trophy-->
-<h2 align="center">:trophy:  Trophy</h2>
+<!-- <h2 align="center">:trophy:  Trophy</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&theme=oldie" />
-</p>
-
+</p> -->
 ---
 
 <!--Git Status Cards-->
