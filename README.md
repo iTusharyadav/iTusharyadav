@@ -138,7 +138,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iTusharyadav&theme=oldie" />
 </p> -->
----
+
 
 <!--Git Status Cards-->
 <h3 align="center">:bar_chart: Git Stats</h3>
